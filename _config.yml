@@ -1,0 +1,12 @@
+title: 我的个人博客
+email: virgiljfan@gmail.com
+description: >- # 这段描述会出现在meta标签中
+  A blog demonstrating what Jekyll is capable of.
+baseurl: "" # 以 `/` 开头的目录，忽略的话会以相对路径访问href中的链接
+url: "https://example.com" # 部署网站的URL，无需www或http://
+theme: minima
+# 用于SEO的social信息
+social:
+  twitter: your-twitter-handle
+  github:  https://github.com/wowattoplay
+  dribbble: your-dribbble-handle
